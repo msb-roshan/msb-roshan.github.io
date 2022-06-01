@@ -20,4 +20,4 @@ M S B Roshan - Expert in Everything (God bless those who invented Transformers)
 
 Website coming soon!!!!. This is just Teaser. 
 
-**Development undertaken by M S B Roshan (only responsible person in the lab)**
+**Development undertaken by M S B Roshan. Raju bhai is responsible for content.**
