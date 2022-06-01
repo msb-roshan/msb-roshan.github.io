@@ -14,7 +14,7 @@ Kamakshi S **(Definitely M.S maybe PhD???)** - Another Control Expert
 
 Krithika Padmanabhan **(Car Owner)** - Spectroscopy Expert
 
-Subhasree S **(Pseudo Lab member)** - Genome scale models Expert
+Subhasree S **(Pseudo Lab member)** - Genome Scale Models Expert
 
 M S B Roshan - Expert in Everything (God bless those who invented Transformers)
 
