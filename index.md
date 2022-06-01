@@ -16,7 +16,7 @@ Krithika Padmanabhan **(Car Owner)** - Spectroscopy Expert
 
 Subhasree S **(Pseudo Lab member)** - Genome scale models Expert
 
-M S B Roshan - Expert in nothing
+M S B Roshan - Expert in Everything (God bless those who invented Transformers)
 
 Website coming soon!!!!. This is just Teaser. 
 
