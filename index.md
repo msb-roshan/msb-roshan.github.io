@@ -2,7 +2,7 @@
 
 ## Members:
 
-Pavan Sanga Thalaivar Kumar - Integrated models expert
+Pavan **Sanga Thalaivar** Kumar - Integrated models expert
 
 Raju Bhai - Genomics Expert  
 
