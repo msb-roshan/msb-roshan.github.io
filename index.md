@@ -4,7 +4,7 @@
 
 Pavan **Sanga Thalaivar** Kumar - Integrated models expert
 
-Raju Bhai - Genomics and Ladies Expert  
+Raju Bhai (Don't know spelling for his full name) - Genomics and **Ladies Expert**  
 
 Keerthana C **(Chinna)** - Control Expert
 
