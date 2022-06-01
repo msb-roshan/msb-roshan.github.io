@@ -1,6 +1,9 @@
 ## Biosystems Engineering and Control Laboratory, IIT Madras
 
-You can use the [editor on GitHub](https://github.com/msb-roshan/msb-roshan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Members:
+
+Pavan Sanga Thalaivar Kumar - Integrated models expert
+Raju Bhai - Genomics Expert  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
